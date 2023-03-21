@@ -1,3 +1,6 @@
-name = "" # todo
+name = "gitpusher-worker-ts"
 main = "./src/index.ts"
 compatibility_date = "2022-05-03"
+kv_namespaces = [
+  { binding = "KV", id = "895048fac137457881e59b763e348729", preview_id = "14f4acc052eb4456a8bbbd1ecc060f1b" }
+]
